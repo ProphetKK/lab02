@@ -3,6 +3,7 @@ const app = Vue.createApp({
         return {
             product: 'Shoes',
             image: './assets/images/socks_green.jpg',
+            imageOut: 'https://st2.depositphotos.com/1186248/6498/i/600/depositphotos_64982201-stock-photo-out-of-stock.jpg',
             inStock: true,
             inventory: 100,
             details: ['50% cotton', '30% wool', '20% polyester'],
